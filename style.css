@@ -1,0 +1,25 @@
+#antes{
+    width: 100%;
+    height: 5vh;
+    background-color: white;
+    margin-top: 1vh;
+}
+
+#antes h1{
+    font-size: 16px;
+    float: left;
+    margin-left: 31vw;
+    margin-top: 0.4vh;
+    
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Cormorant Infant', serif;
+    font-family: 'Cormorant Upright', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+#antes img{
+    width: 62px;
+    margin-left: 1vw;
+}
+
